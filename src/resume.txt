@@ -1,0 +1,47 @@
+(818) 484-0904
+joseph.tohdjojo@gmail.com
+https://www.joetohdjojo.com
+Brooklyn, NY
+Joseph Toh Djojo￼
+EXPERIENCE
+The Daily Beast, New York, NY — Senior Software Engineer
+Dec 2018 - PRESENT
+  • Served as lead architect for projects such as:
+    ◦ Refactoring of our ad stack with a focus on reducing initial header-bidding requests and initial calls to Google Ad Manager resulting in a reduction of around 1000 ms for the initial ad requests and more ad impressions on the site.
+    ◦ Front-end development of our spin-off site, The Daily Beast's Obsessed (the company's most ambitious project to date), and adding features to our CMS to manage content for the site. This project resulted in a new stream of revenue for the business and served as a concept for future spin-off sites.
+    ◦ Creation and enhancement of features for our internal content management system resulting in enhanced company efficiency.
+    ◦ Multiple re-circulation initiatives, resulting in increased user retention which trickled down to more page views, more ad impressions, and increased revenue.
+  • Initiated and spearheaded bi-weekly 'Teachable Thursdays' sessions, providing engineers with a platform to delve into new software engineering concepts and gain valuable experience in teaching.
+  • Guided and mentored summer interns and Girls Who Code participants sponsored by our parent company, IAC. Led them through a summer project, instructing on the utilization of React, NodeJS, GraphQL, and PostgreSQL to develop a fully functional application. The project empowered users to access comprehensive information about politicians on their ballots.
+The New Yorker, New York, NY — Software Engineer
+June 2018 - October 2018
+  • Worked closely with The New Yorker's Customer Growth team to create new features for their React-based, Server-Side Rendered web application, resulting in increased subscription rates.
+  • Engineered robust ad solutions for users with AdBlock enabled and enhanced paywall mechanisms to function seamlessly with AdBlock, leading to the highest daily subscription numbers of the year.
+  • Designed and implemented article page recirculation units to enhance user retention and engagement.
+  • Collaborated with Optimizely to conduct performance assessments of diverse strategies during an A/B headline test on the homepage.
+AT&T, New York, NY — Senior Applications Developer
+April 2017 - May 2018
+  • Spearheaded the effort to revamp the front-end design of the new att.com homepage, harnessing the power of parallax effects, a tailored video player, and cutting-edge web development tools to craft a captivating user experience for potential customers.
+  • Collaborated seamlessly with the back-end team proficient in Adobe Target, Adobe Experience Manager, and Akamai to devise seamless integration solutions with Single Page Application (SPA) frameworks like React and Angular.
+  • Designed and implemented internal tools, including a user-friendly UI tool capable of converting raw JSON data into spreadsheet format, enhancing our team's workflow and overall development experience.
+  • Championed weekly training sessions for colleagues, emphasizing ES6, ReactJS, Redux, and fundamental concepts of functional programming.
+  • Served as the lead developer for AT&T's marketing landing pages, including the TV page (www.att.com/tv) and the accessories page (www.att.com/accessories).
+XXIX, New York, NY — Front-End Developer
+March 2017 - April 2017
+  • One-month contract with XXIX, delivering front-end support.
+  • Collaborated with the design team to implement parallax animations and browser-friendly UI enhancements, driving higher engagement and conversions.
+  • Offered architectural guidance for projects like https://www.aidaeats.com and https://bethcomstock.info, alongside other strategic initiatives, to boost sales and brand exposure.
+DevMountain, Dallas, TX — Mentor
+March 2017 - April 2017
+  • Guided a class of 20 students through the process of becoming full-stack, job-ready, web developers in just 12 weeks.
+  • Led lectures on each component of the MongoDB, ExpressJS, AngularJS, NodeJS (MEAN) stack.
+  • Scheduled weekly one-on-one meetings with students to track their progress and to readjust my teaching methods to cater to their individual needs.
+  • Worked alongside the lead instructor and the campus director to ensure the students' success.
+EDUCATION
+DevMountain, Provo, UT
+May 2016 - Aug 2016, LOCATION
+  • A 13 week full-stack coding bootcamp that focuses on web development via the MEAN stack (MongoDB, Express, AngularJS, and NodeJS).
+  • Additionally mini-workshops and guest instructors were provided to teach ReactJS and PostgreSQL.The initial 6-weeks focused on lectures and working on projects to ensure comprehension.
+  • The initial 6-weeks focused on lectures and working on projects to ensure comprehension. 
+  • Two weeks of the course was spent on an individual project that taught us planning and time-management. 
+  • Another two weeks was spent on a group project which allowed us to develop communication skills, identify and delegate the individual tasks needed to complete the project, and to provide support to our team mates to help unblock their work.
