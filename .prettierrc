@@ -1,0 +1,6 @@
+{
+  "jsxSingleQuote": false,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "singleQuote": true,
+  "trailingComma": "es5"
+}
