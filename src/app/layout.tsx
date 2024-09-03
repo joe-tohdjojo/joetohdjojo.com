@@ -6,6 +6,9 @@ import GoogleAdsense from '@/components/GoogleAdSense';
 export const metadata: Metadata = {
   title: 'Joe Toh Djojo',
   description: 'Staff Engineer @ The Daily Beast',
+  other: {
+    'google-adsense-account': 'ca-pub-7806906228442371',
+  },
 };
 
 export default function RootLayout({
