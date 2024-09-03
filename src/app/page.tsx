@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import img from '@/assets/homepage-img.png';
+import AdUnit from '@/components/AdUnit';
 
 const data = {
   email: 'joe.tohdjojo@gmail.com',
@@ -76,6 +77,7 @@ export default function Home() {
           ©&nbsp;{new Date().getFullYear()}&nbsp;Joe Toh Djojo
         </div>
       </main>
+      <AdUnit slotId="9081277198" />
     </>
   );
 }
