@@ -2,10 +2,11 @@ import type { Metadata } from 'next';
 import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 import GoogleAdsense from '@/components/GoogleAdSense';
+import { data } from '@/data/siteData';
 
 export const metadata: Metadata = {
   title: 'Joe Toh Djojo',
-  description: 'Staff Engineer @ The Daily Beast',
+  description: `Joe Toh Djojo's personal website. Joe is currently working as a ${data.job.title} at ${data.job.company}.`,
   other: {
     'google-adsense-account': 'ca-pub-7806906228442371',
   },

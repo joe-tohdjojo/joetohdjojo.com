@@ -2,37 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import img from '@/assets/homepage-img.png';
 import AdUnit from '@/components/AdUnit';
-
-const data = {
-  email: 'joe.tohdjojo@gmail.com',
-  job: {
-    title: 'Staff Engineer',
-    company: 'The Daily Beast',
-    companyWebsite: 'https://www.thedailybeast.com/',
-  },
-  links: [
-    {
-      text: 'Github',
-      href: 'https://github.com/joseph-tohdjojo',
-    },
-    {
-      text: 'Email',
-      href: 'mailto:joe.tohdjojo@gmail.com?Subject=Hey%20Joe',
-    },
-    {
-      text: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/josephtohdjojo/',
-    },
-    {
-      text: 'CodePen',
-      href: 'https://codepen.io/mrhamburger/',
-    },
-    {
-      text: 'Resume',
-      href: '/resume.pdf',
-    },
-  ],
-};
+import { data } from '@/data/siteData';
 
 export default function Home() {
   const { email, job, links } = data;
@@ -72,6 +42,7 @@ export default function Home() {
           src={img.src}
           width={img.width}
           height={img.height}
+          priority={true}
         />
         <div className="mt-1 self-end text-[9px] text-gray-500">
           ©&nbsp;{new Date().getFullYear()}&nbsp;Joe Toh Djojo
