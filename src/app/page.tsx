@@ -44,7 +44,7 @@ export default function Home() {
           height={img.height}
           priority={true}
         />
-        <div className="mt-1 self-end text-[9px] text-gray-500">
+        <div className="mb-8 mt-1 self-end text-[9px] text-gray-500">
           ©&nbsp;{new Date().getFullYear()}&nbsp;Joe Toh Djojo
         </div>
         <AdUnit slotId="9081277198" />
