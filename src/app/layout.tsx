@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 import GoogleAdsense from '@/components/GoogleAdSense';
@@ -22,6 +23,7 @@ export default function RootLayout({
       <GoogleTagManager gtmId="GTM-WSZMR2ZM" />
       <body className="grid-rows-homeLayout grid h-screen bg-white p-8 font-sans leading-none text-black">
         {children}
+        <SpeedInsights />
       </body>
       <GoogleAdsense pId="7806906228442371" />
     </html>
