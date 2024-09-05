@@ -4,7 +4,6 @@ import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 import GoogleAdsense from '@/components/GoogleAdSense';
 import { data } from '@/data/siteData';
-import Script from 'next/script';
 
 export const metadata: Metadata = {
   title: 'Joe Toh Djojo',
@@ -21,7 +20,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <Script src="https://app.termly.io/resource-blocker/3507386?autoBlock=on" />
       <GoogleTagManager gtmId="GTM-WSZMR2ZM" />
       <body className="grid-rows-homeLayout grid h-screen bg-white p-8 font-sans leading-none text-black">
         {children}
