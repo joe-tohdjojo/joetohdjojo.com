@@ -22,9 +22,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <GoogleTagManager gtmId="GTM-WSZMR2ZM" />
-      <body className="grid-rows-homeLayout grid min-h-screen bg-white p-8 font-sans leading-none text-black">
+      <body className="grid min-h-screen grid-rows-homeLayout bg-white p-8 font-sans leading-none text-black">
         {children}
         <SpeedInsights />
+        <Link
+          href="#"
+          className="termly-display-preferences text-right text-xs text-gray-500"
+        >
+          Consent Preferences
+        </Link>
       </body>
       <GoogleAdsense pId="7806906228442371" />
     </html>
