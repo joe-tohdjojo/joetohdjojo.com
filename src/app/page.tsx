@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <>
-      <header>
+      <header className="row-start-1 row-end-2">
         <h1 className="text-base font-bold leading-none">
           <Link href={`mailto:${email}?Subject=Hey%20Joe`}>Joe Toh Djojo</Link>
         </h1>
@@ -23,7 +23,7 @@ export default function Home() {
           </Link>
         </p>
       </header>
-      <main className="mx-auto flex w-[300px] flex-col items-start self-center sm:w-[480px] lg:w-[600px]">
+      <main className="row-start-2 row-end-3 mx-auto flex w-[300px] flex-col items-start self-center sm:w-[480px] lg:w-[600px]">
         <div>
           {links.map(({ text, href }) => (
             <Link

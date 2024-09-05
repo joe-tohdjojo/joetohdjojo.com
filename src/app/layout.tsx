@@ -4,6 +4,7 @@ import { GoogleTagManager } from '@next/third-parties/google';
 import './globals.css';
 import GoogleAdsense from '@/components/GoogleAdSense';
 import { data } from '@/data/siteData';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Joe Toh Djojo',
@@ -21,7 +22,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <GoogleTagManager gtmId="GTM-WSZMR2ZM" />
-      <body className="grid-rows-homeLayout grid h-screen bg-white p-8 font-sans leading-none text-black">
+      <body className="grid-rows-homeLayout grid min-h-screen bg-white p-8 font-sans leading-none text-black">
         {children}
         <SpeedInsights />
       </body>
