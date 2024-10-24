@@ -9,7 +9,7 @@ export const data = {
   links: [
     {
       text: 'Github',
-      href: 'https://github.com/joseph-tohdjojo',
+      href: 'https://github.com/joe-tohdjojo',
     },
     {
       text: 'Email',
